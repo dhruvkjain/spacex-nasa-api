@@ -1,0 +1,79 @@
+Listening on port 3000
+Listening on port 3000
+::1 - - [13/Apr/2024:10:31:58 +0000] "GET /launches HTTP/1.1" 200 208 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:31:58 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:32:36 +0000] "POST /launches HTTP/1.1" 201 181 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:32:36 +0000] "GET /launches HTTP/1.1" 200 390 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:32:45 +0000] "POST /launches HTTP/1.1" 201 184 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:32:45 +0000] "GET /launches HTTP/1.1" 200 575 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:32:56 +0000] "POST /launches HTTP/1.1" 201 186 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:32:56 +0000] "GET /launches HTTP/1.1" 200 762 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:32:57 +0000] "POST /launches HTTP/1.1" 201 186 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:32:57 +0000] "GET /launches HTTP/1.1" 200 949 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:20 +0000] "POST /launches HTTP/1.1" 201 179 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:20 +0000] "GET /launches HTTP/1.1" 200 1129 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:27 +0000] "POST /launches HTTP/1.1" 201 180 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:27 +0000] "GET /launches HTTP/1.1" 200 1310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:36 +0000] "DELETE /launches/100 HTTP/1.1" 200 3 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:36 +0000] "GET /launches HTTP/1.1" 200 1312 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:38 +0000] "DELETE /launches/101 HTTP/1.1" 200 3 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:38 +0000] "GET /launches HTTP/1.1" 200 1314 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:40 +0000] "DELETE /launches/102 HTTP/1.1" 200 3 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:33:40 +0000] "GET /launches HTTP/1.1" 200 1316 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:34:58 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:34:58 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+Listening on port 3000
+Listening on port 3000
+::1 - - [13/Apr/2024:10:35:50 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:35:50 +0000] "GET /launches HTTP/1.1" 200 208 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:35:52 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:35:52 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:36:11 +0000] "POST /launches HTTP/1.1" 201 185 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:36:11 +0000] "GET /launches HTTP/1.1" 200 394 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:36:13 +0000] "POST /launches HTTP/1.1" 201 181 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:36:13 +0000] "GET /launches HTTP/1.1" 200 576 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+Listening on port 3000
+Listening on port 3000
+::1 - - [13/Apr/2024:10:39:04 +0000] "GET /launches HTTP/1.1" 200 208 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:39:04 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:39:05 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:39:05 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:39:59 +0000] "GET /launches HTTP/1.1" 200 208 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+::1 - - [13/Apr/2024:10:39:59 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+::1 - - [13/Apr/2024:10:41:52 +0000] "POST /launches HTTP/1.1" 201 185 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:41:52 +0000] "GET /launches HTTP/1.1" 200 394 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+::1 - - [13/Apr/2024:10:41:52 +0000] "POST /launches HTTP/1.1" 201 182 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+::1 - - [13/Apr/2024:10:41:52 +0000] "GET /launches HTTP/1.1" 200 577 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+Listening on port 3000
+Listening on port 3000
+connected to DB
+after connection
+connected to DB
+after connection
+Listening on port 3000
+Listening on port 3000
+Connected to MongoDB
+Connected to MongoDB
+Total 8 habitable planets were found by KEPLER.
+Listening on port 3000
+Total 8 habitable planets were found by KEPLER.
+Listening on port 3000
+::1 - - [07/May/2024:19:45:48 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:45:48 +0000] "GET /launches HTTP/1.1" 200 1266 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:46:33 +0000] "DELETE /launches/107 HTTP/1.1" 200 2 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:46:33 +0000] "GET /launches HTTP/1.1" 200 1268 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:46:57 +0000] "GET /upcoming HTTP/1.1" 404 147 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:47:01 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:47:01 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:47:40 +0000] "DELETE /launches/105 HTTP/1.1" 200 2 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:47:40 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:47:41 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:19:47:41 +0000] "GET /launches HTTP/1.1" 200 1270 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:20:05:23 +0000] "GET /planets HTTP/1.1" 200 251 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+::1 - - [07/May/2024:20:05:23 +0000] "GET /launches HTTP/1.1" 200 1270 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+::1 - - [07/May/2024:20:05:41 +0000] "DELETE /launches/105 HTTP/1.1" 200 2 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:20:05:41 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:20:06:29 +0000] "DELETE /launches/106 HTTP/1.1" 200 2 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:20:06:29 +0000] "GET /launches HTTP/1.1" 200 1272 "http://localhost:3000/upcoming" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0"
+::1 - - [07/May/2024:20:06:30 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+::1 - - [07/May/2024:20:06:30 +0000] "GET /launches HTTP/1.1" 200 1272 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
